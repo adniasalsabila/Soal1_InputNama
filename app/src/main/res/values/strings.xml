@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Soal1_InputNama</string>
+    <string name="button_text">Tampilkan</string>
+    <string name="title">Masukkan Nama Anda</string>
 </resources>
